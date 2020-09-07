@@ -7,7 +7,7 @@ The second does.
 
 If interested in my comments please take a look at the following post in my Blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/09/07/all-possible-full-binary-trees/
 
 If you have comments and questions please let m eknow.
 Enjoy;
